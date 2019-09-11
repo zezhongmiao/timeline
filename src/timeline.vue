@@ -23,6 +23,7 @@
       const timeline = this.$refs.timeline
       timeline.style.setProperty('--timelineTheme', this.timelineTheme)
       timeline.style.setProperty('--timelineBg', this.timelineBg)
+      var a = 1;
     }
   }
 </script>
